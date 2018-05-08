@@ -30,4 +30,4 @@ adrienne.last_name = "yao"
 adrienne.learn(more_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
-puts "Adreinne just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+puts "Adrienne just learned this important knowledge: '#{adrienne.knowledge.first}' from Avi"
