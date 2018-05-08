@@ -23,4 +23,10 @@ jim.learn(some_knowledge)
 
 more_knowledge = avi.teach
 
+adrienne = Student.new
+adrienne.first_name = "adrienne"
+adrienne.last_name = "yao"
+
+
+
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
