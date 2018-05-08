@@ -27,6 +27,6 @@ adrienne = Student.new
 adrienne.first_name = "adrienne"
 adrienne.last_name = "yao"
 
-
+adrienne.learn(more_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
